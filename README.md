@@ -1,0 +1,1 @@
+This Python script copies only .jpg files from a source S3 bucket to a destination S3 bucket in a different AWS region. It uses the boto3 library to list and transfer files while following the principle of least privilege using an IAM policy.
